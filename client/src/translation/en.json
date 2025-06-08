@@ -481,7 +481,7 @@
     "merchDescription": "Description",
     "price": "Price",
     "quantity": "Quantity in stock",
-    "quantityRemainingDescription": "Note that if any quantity remaining is set in the options, we'll use that to calculate the amount remaining.",
+    "quantityRemainingDescription": "Note that if any quantity remaining is set in the options, we'll use that to calculate the remaining stock.",
     "typeAlbumName": "Type album name",
     "everywhere": "Everywhere",
     "everywhereElse": "Everywhere else",
